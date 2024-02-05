@@ -1,4 +1,4 @@
-# RC-Car-using-IR-Transmitter-and-Receiver
+# Wireless Control: Building an RC Car with Infrared Transmitter and Receiver Integration
 
 On the car, a TSOP1738 IR receiver is used in connection with an Arduino.
 The transmitter currently uses a standard television remote to send IR signals.
